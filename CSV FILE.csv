@@ -1,0 +1,100 @@
+,,E-Commerce Platform Analysis ,,,
+,,,,,
+Rank,Name,Symbol,Employees_count,Price (USD),Country
+1,Amazon,AMZN,1546000,210,United States
+2,JD.com,JD,900000,26.53,China
+3,Alibaba,BABA,123711,144.11,China
+4,Meituan,3690.HK,114731,10.3726,China
+5,Coupang,CPNG,95000,19.08,United States
+6,MercadoLibre,MELI,84207,1757.58,Argentina
+7,Sea Limited,SE,80700,108.45,Singapore
+8,Rakuten,4755.T,29334,5.30878,Japan
+9,PDD Holdings (Pinduoduo),PDD,23465,103.73,China
+10,Ocado,OCDO.L,20261,2.83051,United Kingdom
+11,Chewy,CHWY,18000,27.42,United States
+12,Carvana,CVNA,17400,334.16,United States
+13,Zalando,ZAL.DE,15463,24.533,Germany
+14,Cimpress,CMPR,15000,73.05,Ireland
+15,Vipshop,VIPS,14966,17.42,China
+16,Ozon,OZON.ME,14834,61.89,United States
+17,Copart,CPRT,13086,38.09,United States
+18,Wayfair,W,12100,76.33,United States
+19,eBay,EBAY,11500,90.86,United States
+20,Shopify,SHOP,8100,120.73,Canada
+21,Baozun,BZUN,7650,2.51,China
+22,THG (The Hut Group),THG.L,6797,0.470179,United Kingdom
+23,Allegro.eu,ALE.WA,5980,7.76953,Poland
+24,Boohoo Group,DEBS.L,5079,0.296388,United Kingdom
+25,IndiaMART,INDIAMART.NS,4583,23.4172,India
+26,Global Fashion Group,GFG.DE,4413,0.297943,Luxembourg
+27,CEWE,CWC.F,4000,117.758,Germany
+28,JD Health,6618.HK,3564,7.2538,China
+29,GoTo,GOTO.JK,3413,0.00363962,Indonesia
+30,Instacart (Maplebear Inc.),CART,3265,37.51,United States
+31,Dingdong Maicai,DDL,3120,2.84,China
+32,ASOS,ASC.L,3027,3.84631,United Kingdom
+33,The RealReal,REAL,3011,12.26,United States
+34,Lightspeed POS,LSPD,3000,9.03,Canada
+35,Nykaa,NYKAA.NS,2764,2.91595,India
+36,Etsy,ETSY,2400,54.88,United States
+37,Hong Kong Technology Venture Company (HKTV),1137.HK,2214,0.18534,Hong Kong
+38,Jumia,JMIA,2163,8.23,Germany
+39,Mercari,4385.T,2080,23.5597,Japan
+40,Groupon,GRPN,2079,12.62,United States
+41,Wirtualna Polska (WP Holding),WPL.WA,2043,17.0479,Poland
+42,Allied Tecnologia,ALLD3.SA,1900,1.41903,Brazil
+43,Redcare Pharmacy,RDC.DE,1725,71.7073,Netherlands
+44,ZOZO,3092.T,1693,7.30189,Japan
+45,Revolve,RVLV,1632,25.16,United States
+46,ThredUp,TDUP,1630,4.88,United States
+47,Westwing Group,WEW.DE,1582,21.2225,Germany
+48,CarParts.com,PRTS,1466,0.71,United States
+49,Alibaba Health Information Technology,0241.HK,1435,0.713238,Hong Kong
+50,Monotaro,3064.T,1432,13.3377,Japan
+51,VTEX,VTEX,1368,3.43,United Kingdom
+52,a.k.a. Brands,AKA,1350,10.01,United States
+53,BHG Group AB,BHG.ST,1347,2.87949,Sweden
+54,Mister Spex,MRX.F,1293,1.44833,Germany
+55,About You,YOU.DE,1256,7.76846,Germany
+56,BigCommerce,BIGC,1161,4.78,United States
+57,Global-e,GLBE,1084,34.97,Israel
+58,Groupe LDLC,ALLDL.PA,1063,17.5573,France
+59,Uxin Limited,UXIN,1045,3.53,China
+60,SRP Groupe (Showroomprive.com),SRP.PA,1011,0.82289,France
+61,Rent the Runway,RENT,912,5.97,United States
+62,Liquidity Services,LQDT,781,31.61,United States
+63,Vivid Seats,SEAT,768,5.96,United States
+64,Newegg,NEGG,762,44.46,United States
+65,Bukalapak.com,BUKA.JK,752,0.00871122,Indonesia
+66,Infibeam Avenues,INFIBEAM.NS,750,0.185625,India
+67,The Original BARK Company,BARK,691,0.7813,United States
+68,Verkkokauppa.com,VERK.HE,644,4.29179,Finland
+69,Lulu's Fashion Lounge,LVLU,580,15.45,United States
+70,Bike24 Holding,BIKE.DE,524,3.55876,Germany
+71,LightInTheBox Holding,LITB,422,2.64,Singapore
+72,Auction Technology Group,ATG.L,370,4.20332,United Kingdom
+73,Yunji,YJ,363,1.51,China
+74,Shoper,SHO.WA,356,12.0371,Poland
+75,Vente-Unique.com,ALVU.PA,347,18.0303,France
+76,Grove Collaborative,GROV,339,1.41,United States
+77,MSTC Limited,MSTCLTD.NS,315,5.02175,India
+78,INTERSHOP Communications,ISHA.DE,293,1.40695,Germany
+79,1-800-PetMeds,PETS,287,2.74,United States
+80,1stdibs.com,DIBS,284,4.81,United States
+81,Webuy Global,WBUY,174,1.06,Singapore
+82,Delticom AG,DEX.DE,172,3.06219,Germany
+83,Hour Loop,HOUR,151,1.91,United States
+84,Kits Eyecare,KITS.TO,143,12.974,Canada
+85,Natural Health Trends,NHTC,133,3.2,United States
+86,Katapult Holdings,KPLT,94,6.16,United States
+87,CDON AB,CDON.ST,66,8.20178,Sweden
+88,Upexi,UPXI,64,0.6631,United States
+89,Treasure Global,TGL,25,4.66,Malaysia
+90,Kidpik,PIK,14,2.38,United States
+91,Jeffs' Brands,JFBR,10,0,Israel
+92,Meds Apotek AB,MEDS.ST,0,3.88679,Sweden
+93,Americanas,AMER3.SA,0,1.09396,Brazil
+94,Vend Marketplaces,VENDA.OL,0,35.6446,Norway
+95,momo.com Inc.,8454.TW,0,6.14211,Taiwan
+96,LuxExperience,LUXE,0,9.67,Germany
+97,Cettire Limited,CTT.AX,0,0.231432,Australia
